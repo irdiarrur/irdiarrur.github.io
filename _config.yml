@@ -57,6 +57,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+flickr:
+  screen_name: rioabstract
+  api_key: de45c772742ccff813704e96e2ecfc54
+  api_secret: 0feb9a31a6b8ce66
+
+
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
