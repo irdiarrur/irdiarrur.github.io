@@ -1,5 +1,3 @@
-_merge: deep
-
 # Default params
 admin:
   auth:
