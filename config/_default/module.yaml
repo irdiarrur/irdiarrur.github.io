@@ -5,8 +5,11 @@ imports:
   # Core theme
   - path: github.com/hugolify/hugolify-theme-3  
   - path: github.com/hugolify/hugolify-theme
-  - path: github.com/hugolify/hugolify-theme-projects
+  - path: github.com/hugolify/hugolify-theme-posts-categories
   - path: github.com/hugolify/hugolify-theme-posts
+  - path: github.com/hugolify/hugolify-theme-projects-tags
+  - path: github.com/hugolify/hugolify-theme-projects
+
 
   # CMS
   - path: github.com/hugolify/hugolify-admin
