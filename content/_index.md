@@ -4,9 +4,10 @@ draft: false
 title: Home
 description: Welcome to my website
 blocks:
-  - type: latest
-    count: 4
+  - type: selected-posts
+    section: posts
     show_more: true
     background: false
-    section: posts
+    items:
+      - 2025/05/2025-05-31-my-first-post
 ---
