@@ -12,7 +12,7 @@ admin:
     # Optional cloud settings [start], not supported for Sveltia CMS
     cloud:
       name: cloudinary # or uploadcare
-      cloud_name: 1 # your cloudinary cloud name
-      api_key: s-Zh7KeX-mqf1F-bKMzDjhah414# your cloudinary api key
+      cloud_name: dzxcguaty # your cloudinary cloud name
+      api_key: 458847711554718 # your cloudinary api key
       publicKey: # your uploadcare public api key
     # Optional cloud settings [end] 
