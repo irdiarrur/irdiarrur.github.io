@@ -1,18 +1,1 @@
 _merge: deep
-
-admin: 
-  media:
-    media_folder: 'assets/images/uploads'
-    public_folder: '/images/uploads'
-    audio_max_file_size: 700000 # 700ko
-    max_file_size: 700000 # 700ko
-    pdf_max_file_size: 5000000 # 5Mo
-    specific_filter: false # set true to add a selected filter by image
-    video_max_file_size: 5000000 # 5Mo
-    # Optional cloud settings [start], not supported for Sveltia CMS
-    cloud:
-      name: cloudinary # or uploadcare
-      cloud_name: 1 # your cloudinary cloud name
-      api_key: s-Zh7KeX-mqf1F-bKMzDjhah414# your cloudinary api key
-      publicKey: # your uploadcare public api key
-    # Optional cloud settings [end] 
