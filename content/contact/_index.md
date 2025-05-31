@@ -7,7 +7,7 @@ hero:
   text: Lorem ipsum
   align: center
   image:
-    src: ''
+    src: ""
     darken: true
     background_image: true
   cta:
@@ -21,22 +21,19 @@ hero:
 blocks:
   - type: map
     background: false
-    location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
+    location: '{"type":"Point","coordinates":[3.6947874,54.019186]}'
     zoom: 14
     heading:
-      text:
-        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-      title:
-        Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
         lectus.
     grid: large
   - type: faq
     background: true
     heading:
       title: Frequently asked questions
-      text:
-        Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+      text: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
         lectus.
     items:
       - title: Vestibulum sed bibendum lectus?
@@ -51,11 +48,7 @@ blocks:
           * fusce maximus
 
           * pellentesque
-  - type: selected-pages
-    section: pages
-    show_more: true
-    background: false
-    items:
-      - Legal mentions
-      - Privacy policy
 ---
+DO NOT CONTACT ME
+
+Thanks
