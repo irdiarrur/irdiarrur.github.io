@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2025-05-31T21:34:00.000Z
+date: 2025-05-31T21:36:00.000Z
 title: My first post
 description: ""
 ---
