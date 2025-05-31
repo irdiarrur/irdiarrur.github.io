@@ -1,15 +1,15 @@
 {
   "name": "hugolify-template",
   "version": "1.15.1",
-  "homepage": "https://www.hugolify.io",
+  "homepage": "https://www.rioabstract.com",
   "repository": "https://github.com/irdiarrur/irdiarrur.github.io",
   "bugs": {
     "url": "https://github.com/irdiarrur/irdiarrur.github.io/issues"
   },
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
-    "url": "https://www.sebastienmoulene.com/"
+    "email": "contact@rioabstract.com",
+    "name": "Rio",
+    "url": "https://www.rioabstract.com"
   },
   "license": "MIT",
   "devDependencies": {
