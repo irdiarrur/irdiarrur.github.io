@@ -21,7 +21,7 @@ hero:
 blocks:
   - type: map
     background: false
-    location: '{"type":"Point","coordinates":[3.6947874,54.019186]}'
+    location: '{"type":"Point","coordinates":[9.7989821,51.1681199]}'
     zoom: 14
     heading:
       text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
