@@ -1,2 +1,4 @@
 _merge: deep
-twitter: hugolify
+privacy:
+  x:
+    enableDNT: true
