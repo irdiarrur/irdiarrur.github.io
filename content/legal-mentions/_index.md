@@ -5,26 +5,15 @@ title: Legal mentions
 description: Legal mentions page
 ---
 
-## Welcome to demo.hugolify.io
+## Welcome to rioabstract.com
 
 By using this site, you acknowledge having read the provisions below and you agree to respect them. The legal notices indicated below may change, we invite you to consult them regularly.
 
-## Editor
-
-The demo.hugolify.io website is the property of {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
-
 ## Hosting
 
-The site demo.hugolify.io is hosted at:
+The site rioabstract.com is hosted at:
 
-Netlify,\
-2325 3rd Street, \
-Suite 296, \
-San Francisco, \
-California 94107, \
-United States
-
-https://www.netlify.com
+https://www.netlify.com and the repository can be found on https://www.github.com
 
 ## Conception
 
