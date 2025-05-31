@@ -7,7 +7,7 @@ imports:
   - path: github.com/hugolify/hugolify-theme-posts
 
   # Core theme
-  - path: github.com/hugolify/hugolify-theme-3  
+  #- path: github.com/hugolify/hugolify-theme-3  
   - path: github.com/hugolify/hugolify-theme
   # CMS
   - path: github.com/hugolify/hugolify-admin
