@@ -1,4 +1,4 @@
-module github.com/hugolify/hugolify-template
+module github.com/irdiarrur/irdiarrur.github.io
 
 go 1.21
 
