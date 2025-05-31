@@ -4,10 +4,8 @@ draft: false
 title: Home
 description: Welcome to my website
 blocks:
-  - type: selected-posts
-    section: posts
-    show_more: true
+  - type: images
     background: false
-    items:
-      - 2025/05/2025-05-31-my-first-post
+    images:
+      - src: https://res.cloudinary.com/dzxcguaty/image/upload/v1748706511/DSCF24102_1_gpr5lu.jpg
 ---
